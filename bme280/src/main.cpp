@@ -9,12 +9,11 @@
 Adafruit_BME280 bme;
 
 // Wifi name (ssid) and password
-const char *ssid = "zenbook-kristian";
-const char *password = "hansen123";
+const char *ssid = "ssid";
+const char *password = "password";
 
 // MQTT Broker IP-address
-// const char *mqtt_server = "10.22.226.56"; school
-const char *mqtt_server = "10.22.226.91"; // home
+const char *mqtt_server = "ip"; // home
 const int mqtt_port = 1883;
 
 // declare the mqtt client

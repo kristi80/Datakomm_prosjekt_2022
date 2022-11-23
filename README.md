@@ -14,3 +14,6 @@ Last ned kode fra "testpanel" på en ESP32 og koble opp komponentene fra rapport
 Deretter kjør en MQTT server, dette kan gjøres fra VS-code ved hjelp av "mosquitto" folder (her finnes flere kommentarer).
 Start en Node-RED server som kobles opp til MQTT server.
 Nå skal komponenter og servere være koblet opp og snakke sammen.
+
+## PS
+Testpanel for ubidots er ikke relevant for prosjektet.
